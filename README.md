@@ -1,6 +1,6 @@
 # cv_laversin
 
-A new Flutter project.
+Projet de Mathis Laversin
 
 ## Getting Started
 
