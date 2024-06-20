@@ -23,6 +23,6 @@ final List<FormationData> formations = [
     imageUrl: 'assets/mds.png',
     degree: 'Licence en Informatique',
     institution: 'École d\'Informatique ABC',
-    description: 'Une description de ce que vous avez appris.',
+    description: 'Développement web & mobile.',
   ),
 ];
